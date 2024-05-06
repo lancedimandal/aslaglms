@@ -1,5 +1,0 @@
-fsdbabeqe
-
-//What is Git?
-// How does it work?
-// What are the essentials of git?
