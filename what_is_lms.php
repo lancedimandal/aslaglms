@@ -14,8 +14,3 @@ header("Location: teacher-login.php");
 exit;
 
 ?>
-
-
-// Sample comment only
-// Test for GitHub commands
-// Add a placeholder
