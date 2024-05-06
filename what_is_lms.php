@@ -18,4 +18,3 @@ exit;
 
 // Sample comment only
 // Test for GitHub commands
-// Test for dev 1
