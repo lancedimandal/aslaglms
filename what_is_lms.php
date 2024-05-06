@@ -18,3 +18,5 @@ exit;
 
 // Sample comment only
 // Test for GitHub commands
+// Test comment for dev2
+// New comment for dev2
