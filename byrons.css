@@ -1,0 +1,895 @@
+html,
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+  overflow-x: hidden;
+}
+.by-custom-people {
+  padding-bottom: 20px;
+}
+
+.By_HP_CTA_Content {
+  min-height: 6.4em;
+  max-height: 6.4em;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.By_HP_CTA_Content p {
+  position: relative;
+}
+
+.by-service-divider {
+  position: absolute;
+  top: 230px;
+}
+
+.by-industry-container {
+  position: absolute;
+  top: 250px;
+}
+
+.By-people-post-custom .elementor-widget-container p {
+  padding-bottom: 20px;
+}
+
+.By_news_grid_post_content_left .elementor-widget-container p {
+  padding-bottom: 20px;
+}
+
+.By-clients-says-custom .elementor-widget-container p {
+  padding-bottom: 20px;
+}
+
+.page-id-2 a {
+  color: #0190c6;
+}
+
+.page-id-2 .By_HP_cta_industry_list a:hover {
+  color: #0190c6;
+}
+
+.tnc-accordion .elementor-accordion-item:not(:last-child) .elementor-tab-title,
+.tnc-accordion
+  .elementor-accordion-item:not(:first-child)
+  .elementor-tab-content-wrapper {
+  border-bottom: 0.5px solid #e0e0e0;
+}
+
+.tnc-accordion
+  .elementor-accordion-item:not(:first-child)
+  .elementor-tab-title {
+  border-top: 0.5px solid #e0e0e0;
+}
+
+.brMrFormFilters {
+  font-family: Arial, sans-serif;
+}
+
+.By_member_loopgrid .e-loop-item a.By-click-pointer,
+.By_member_loopgrid .e-loop-item a.By-click-pointer:hover,
+.By_member_loopgrid .e-loop-item a.By-click-pointer:visited {
+  left: unset;
+}
+
+/*Search Results*/
+.elementor-post__text .elementor-post__title h3 a {
+  color: black;
+}
+
+.elementor-widget-archive-posts
+  .elementor-post__title.elementor-widget-archive-posts
+  .elementor-post__title
+  a {
+  color: black;
+}
+
+.elementor-post__meta-data {
+  font-family: Arial, sans-serif;
+}
+
+.elementor-post-avatar {
+  color: white;
+}
+
+/* Experts Service Filter HP */
+.By_HP_CTA_Content {
+  margin-top: -40px;
+}
+
+.by-service-divider {
+  margin-top: -30px;
+}
+
+.by-service-industry {
+  margin-top: -30px;
+}
+
+.by_members_services_filter {
+  margin-top: -40px;
+}
+
+.HP-expert-social {
+  margin-left: -10px;
+  margin-top: -10px;
+}
+
+.HP-expert-social {
+  margin-bottom: -20px;
+}
+
+/* HP Services Checkbox */
+.By_CTA_CheckerRow {
+  margin-bottom: 35px;
+}
+
+/*Formidable Pop*/
+.frm_style_formidable-style {
+  bottom: 0x;
+}
+
+.captcha-pop {
+  margin-left: 23.5px;
+  width: 100px;
+  height: 50px;
+  font-size: 12px;
+}
+
+.By_contact_us_pop_right,
+.By_contact_us_pop_left {
+  bottom: 100px;
+}
+
+.frm-phone-pop {
+  width: 97.5%;
+}
+
+.byrons-input-pop-email {
+  margin-left: 12.5px;
+}
+
+.byrons-desc-pop,
+.byrons-input-pop,
+.byrons-button-pop {
+  font-family: Arial, sans-serif;
+  margin-left: 23.5px;
+}
+
+.formidable-form-pop .frm_error_style {
+  display: none;
+}
+.formidable-form-pop .frm_error {
+  margin-left: 22.5px;
+}
+
+.frm_start_over {
+  display: none;
+}
+
+.frm_style_formidable-style.with_frm_style .frm_error {
+  font-size: 10.5px;
+  white-space: nowrap;
+}
+
+/*Specific People Service*/
+.people-service .sd-posts-col {
+  margin-left: 20px;
+}
+
+.people-service .sd-posts-item {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.people-service .sd-post-name {
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: #046aaa;
+  padding-bottom: 10px;
+}
+
+.people-service .sd-podt-content {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 17px;
+}
+
+.people-service a {
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  padding: 10px 20px;
+  background-color: #046aaa;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 104px;
+}
+
+.people-service .sd-post-image img {
+  height: 235px;
+  width: 625px;
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.postid-3315 a {
+  color: #046aaa;
+}
+
+.postid-3315 .elementor-widget-button a {
+  color: white;
+}
+
+.By_service_single_right .elementor-widget-container {
+  word-break: normal;
+}
+
+/*MTT Cursor Pointer*/
+.By_member_loopgrid .e-loop-item .fa-long-arrow-right {
+  cursor: pointer;
+}
+
+/* Specific Services, Related Services Section */
+
+/* Member Articles */
+.sd-blog-container {
+  font-family: Arial, sans-serif;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns */
+  grid-gap: 30px; /* Adjust the gap between grid items */
+  padding: 0;
+  margin: 0;
+}
+
+.sd-blog-col {
+  padding: 0px;
+  margin: 0px;
+  flex: 1;
+}
+
+.sd-blog-item {
+  border: solid 1px #95989a;
+  display: grid;
+  grid-template-rows: auto auto auto auto 1fr; /* Adjust row heights */
+}
+
+.sd-blog-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.sd-blog-image {
+  border-bottom: solid 1px #95989a;
+  padding: 0; /* Remove padding */
+}
+
+.sd-blog-image img {
+  height: 100%;
+  display: block;
+}
+
+.sd-blog-date,
+.sd-blog-name,
+.sd-blog-author,
+.sd-blog-excerpt,
+.sd-blog-link {
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 25px; /* Add margin-bottom for line break */
+  line-height: 30px;
+}
+
+.sd-blog-date {
+  font-style: italic;
+  font-size: 12px;
+  margin-top: 20px; /* Adjusted margin-top */
+}
+
+.sd-blog-name {
+  font-weight: 700;
+  font-size: 18px; /* Adjusted font-size */
+  margin-top: 10px; /* Adjusted margin-top */
+}
+
+.sd-blog-author {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.sd-blog-author img {
+  width: 20px;
+}
+
+.sd-blog-excerpt {
+  font-size: 16px;
+  line-height: 30px; /* Adjusted line-height */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.sd-blog-link {
+  font-size: 12px;
+  padding-bottom: 20px;
+}
+
+.sd-blog-link a {
+  color: #046aaa;
+}
+
+/*NEWS PAGE*/
+.By_news_grid_post_content_left .elementor-widget-container {
+  max-height: unset;
+}
+.news-single-service {
+  align-self: flex-start;
+}
+
+/* Services Key Contact */
+.sd-service-container {
+  font-family: Arial, sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.sd-service-item {
+  display: flex;
+  column-gap: 25px;
+}
+
+.sd-service-img-col {
+  width: 320px;
+  margin-bottom: 25px;
+}
+
+.sd-service-image img {
+  width: 320px;
+  height: auto;
+  display: block;
+}
+
+.sd-service-image {
+  width: 630px;
+  border-bottom: solid 6px #046aaa;
+}
+
+.sd-service-col {
+  display: block;
+}
+
+.sd-service-col .sd-service-name {
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 19px;
+}
+
+.sd-service-col .sd-service-position {
+  font-size: 14px;
+}
+
+.sd-service-col .sd-service-discussion {
+  margin-top: 35px;
+  padding-right: 50px;
+}
+
+.sd-service-col .sd-service-link a {
+  margin-top: 35px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  align-self: start;
+  font-size: 12px;
+  color: #046aaa;
+}
+
+/* Industry Key Contact */
+.sd-industry-container {
+  font-family: Arial, sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.sd-industry-item {
+  display: flex;
+  column-gap: 25px;
+}
+
+.sd-industry-img-col {
+  width: 320px;
+  margin-bottom: 25px;
+}
+
+.sd-industry-image img {
+  width: 320px;
+  height: auto;
+  display: block;
+}
+
+.sd-industry-image {
+  width: 630px;
+  border-bottom: solid 6px #046aaa;
+}
+
+.sd-industry-col {
+  display: block;
+}
+
+.sd-industry-col .sd-industry-name {
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 19px;
+}
+
+.sd-industry-col .sd-industry-position {
+  font-size: 14px;
+}
+
+.sd-industry-col .sd-industry-discussion {
+  margin-top: 35px;
+  padding-right: 50px;
+}
+
+.sd-industry-col .sd-industry-link a {
+  margin-top: 35px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  align-self: start;
+  font-size: 12px;
+  color: #046aaa;
+}
+
+/*HOME PAGE SOCIAL ICONS
+.HP-loop-social .elementor-widget-container{
+	margin-left: -10px;
+}
+
+.HP-loop .HP-loop-image img{
+	width: 100px !important;
+}
+
+.HP-expert .HP-expert-social {
+	margin-left: -10px !important;
+}
+*/
+
+.By_HP_CTA_Title {
+  margin-bottom: -10px;
+}
+
+/*Specific Careers Page*/
+.role-container {
+  font-family: Arial, sans-serif;
+}
+
+/* Employee Testimonial */
+.testimonial-description {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-style: italic;
+  line-height: 28px;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.testimonial-header {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/*News Blog Services*/
+.sd-service-blog-image img {
+  width: 608.78px;
+}
+
+.sd-service-blog-name {
+  font-family: "Arial", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 42px;
+  color: #046aaa;
+}
+
+.sd-service-blog-content {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 42px;
+  color: #000000;
+}
+
+.sd-service-blog-button a {
+  background-color: #046aaa;
+  font-family: "Arial", sans-serif;
+  padding: 20px 50px 20px 50px;
+  margin-top: 20px;
+  border: none;
+}
+
+/* Specific Services */
+.service-blue-2 {
+  width: 300px;
+}
+
+.service-description {
+  word-break: break-word;
+  text-align: left;
+}
+
+/* Job Card */
+.job-card {
+  width: 400px;
+}
+
+/*Specific Career Hyperlink*/
+a {
+  color: #158ac4;
+}
+
+a:hover {
+  color: #158ac4;
+}
+
+/*Navigation Menu Tablet*/
+/* iPad Portrait */
+@media (max-width: 1024px) {
+  .elementor-nav-menu ul li {
+    display: flex;
+  }
+  .sub-arrow {
+    pointer-events: none;
+  }
+  .By_CTA_CheckerRow {
+    display: flex;
+  }
+  .service-main-container {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  }
+  .people-container {
+    display: grid;
+  }
+  .e-con > .e-con-inner > .elementor-widget > .elementor-widget-container,
+  .e-con > .elementor-widget > .elementor-widget-container {
+    height: unset;
+  }
+  .industries-card-section
+    .e-loop-item
+    .elementor-element-14b4739
+    > .e-con-inner
+    .elementor-widget-heading {
+    visibility: hidden;
+    position: absolute;
+    width: 440px;
+    /* 		left: 29px; */
+    bottom: -20px;
+    height: 0;
+  }
+  .people-service .sd-post-image img {
+    height: 235px;
+    width: 625px;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+  }
+  .people-service a {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding: 10px 20px;
+    background-color: #046aaa;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 55px;
+  }
+  .sd-blog-date,
+  .sd-blog-name,
+  .sd-blog-author,
+  .sd-blog-excerpt,
+  .sd-blog-link {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 15px; /* Add margin-bottom for line break */
+    line-height: 30px;
+  }
+
+  .HP-expert-social {
+    margin-left: -5px;
+  }
+  /* HP Services Checkbox */
+  .By_CTA_CheckerRow {
+    margin-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .expers-services-industries {
+    height: 612px;
+  }
+  .By_page_texttitle {
+    padding-left: 90px;
+  }
+  .By_page_subtexttitle {
+    padding-left: 90px;
+  }
+  .page-id-2777 .row {
+    display: revert;
+  }
+
+  /* Search Filter News */
+  .page-id-1517 .brMrFormFilters {
+    margin-left: 75px;
+  }
+
+  .page-id-1517.row.no-gutters.rowSearch {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .col-xl-11.brMrEnterSearch {
+    width: 76.5%;
+  }
+
+  .page-id-1517.row.no-gutters.rowDropdowns {
+    flex-direction: column;
+  }
+
+  .page-id-1517.bsDropdowns {
+    width: 788px;
+  }
+
+  .page-id-1517.row .no-gutters {
+    flex-direction: column;
+  }
+
+  .page-id-1517 #brEndDate.datePicker .hasDatepicker {
+    left: 285px;
+  }
+
+  /*News Page Articles*/
+  .sd-blog-container {
+    font-family: Arial, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Three columns */
+    grid-gap: 30px; /* Adjust the gap between grid items */
+    padding: 0;
+    margin: 0;
+  }
+
+  .sd-blog-col {
+    padding: 0px;
+    margin: 0px;
+    flex: 1;
+  }
+
+  .sd-blog-item {
+    width: 300px;
+    border: solid 1px #95989a;
+    display: grid;
+    grid-template-rows: auto auto auto auto 1fr; /* Adjust row heights */
+  }
+
+  .sd-blog-item {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sd-blog-image {
+    border-bottom: solid 1px #95989a;
+    padding: 0; /* Remove padding */
+  }
+
+  .sd-blog-image img {
+    height: 100%;
+    display: block;
+  }
+
+  .sd-blog-date,
+  .sd-blog-name,
+  .sd-blog-author,
+  .sd-blog-excerpt,
+  .sd-blog-link {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 25px; /* Add margin-bottom for line break */
+    line-height: 30px;
+  }
+
+  .sd-blog-date {
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 20px; /* Adjusted margin-top */
+  }
+
+  .sd-blog-name {
+    font-weight: 700;
+    font-size: 18px; /* Adjusted font-size */
+    margin-top: 10px; /* Adjusted margin-top */
+  }
+
+  .sd-blog-author {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .sd-blog-author img {
+    width: 20px;
+  }
+
+  .sd-blog-excerpt {
+    font-size: 16px;
+    line-height: 30px; /* Adjusted line-height */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+
+  .sd-blog-link {
+    font-size: 12px;
+    padding-bottom: 20px;
+  }
+
+  .sd-blog-link a {
+    color: #046aaa;
+  }
+
+  /* Services Key Contact */
+  .sd-service-container {
+    font-family: Arial, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .sd-service-item {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+  }
+
+  .sd-service-img-col {
+    width: 250px;
+    margin-bottom: 25px;
+  }
+
+  .sd-service-image img {
+    width: 250px;
+    height: auto;
+    display: block;
+  }
+
+  .sd-service-image {
+    width: 530px;
+    border-bottom: solid 6px #046aaa;
+  }
+
+  .sd-service-col {
+    width: 260px;
+  }
+
+  .sd-service-col .sd-service-name {
+    font-weight: 700;
+    font-size: 19px;
+  }
+
+  .sd-service-col .sd-service-position {
+    font-size: 14px;
+  }
+
+  .sd-service-col .sd-service-discussion {
+    margin-top: 15px;
+    padding-right: 50px;
+  }
+
+  .sd-service-col .sd-service-link a {
+    margin-top: 15px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    align-self: start;
+    font-size: 12px;
+    color: #046aaa;
+  }
+
+  /* Industries Key Contact */
+  .sd-industry-container {
+    font-family: Arial, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .sd-industry-item {
+    display: flex;
+    flex-direction: row;
+    margin-left: 105px;
+  }
+
+  .sd-industry-img-col {
+    width: 250px;
+    margin-bottom: 25px;
+  }
+
+  .sd-industry-image img {
+    width: 250px;
+    height: auto;
+    display: block;
+  }
+
+  .sd-industry-image {
+    width: 530px;
+    border-bottom: solid 6px #046aaa;
+  }
+
+  .sd-industry-col {
+    width: 260px;
+  }
+
+  .sd-industry-col .sd-industry-name {
+    font-weight: 700;
+    font-size: 19px;
+  }
+
+  .sd-industry-col .sd-industry-position {
+    font-size: 14px;
+  }
+
+  .sd-industry-col .sd-industry-discussion {
+    margin-top: 15px;
+    padding-right: 50px;
+  }
+
+  .sd-industry-col .sd-industry-link a {
+    margin-top: 15px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    align-self: start;
+    font-size: 12px;
+    color: #046aaa;
+  }
+
+  /*News Image Alignment*/
+  .By_newsgrid_featimage {
+    margin-bottom: -30px;
+  }
+
+  .brMrEnterIndu {
+    margin-left: -8px;
+  }
+
+  .brMrEnterService {
+    margin-left: 53px;
+  }
+
+  .e-loop-item.by-blog-box {
+    width: 650px;
+  }
+
+  .elementor-3844
+    .elementor-element.elementor-element-008adc7:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-3844
+    .elementor-element.elementor-element-008adc7
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: unset;
+  }
+}
